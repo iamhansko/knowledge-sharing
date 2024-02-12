@@ -2,11 +2,9 @@
 
 [Reference](https://www.oreilly.com/library/view/the-art-of/9781098141349/)
 
-:::success
+> [!TIP]
+> 🐸 지나치게 복잡하면 변화할 수 없다
 
-🐸 지나치게 복잡하면 변화할 수 없다
-
-:::
 
 Project Based Learning 권장
 
