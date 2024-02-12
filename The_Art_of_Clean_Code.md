@@ -7,79 +7,77 @@
 
 
 Project Based Learning 권장
-
 ## Complexity = 부분들로 이루어진 전체를 분석하고 이해하거나 설명하기 어려운 정도
+```markdown
     
-    Project Lifecycle
+Project Lifecycle
+
+  Plan → Define → Design → Build → Test → Deploy → Plan → …
     
-    Plan → Define → Design → Build → Test → Deploy → Plan → …
-    
-    Plan
-    
+  - Plan
+
     End Users → Features they “needs”
+
+    - 기능 구현 비용
     
-    기능 구현 비용
-    
-    기대 가치
-    
-    영업 시사점
-    
-    유지보수성
-    
-    확장성
-    
-    법적 제한
-    
-    Define
-    
+    - 기대 가치
+
+    - 영업 시사점
+
+    - 유지보수성
+
+    - 확장성
+
+    - 법적 제한
+
+  - Define
+
     Plan Outputs → Software Requirements
-    
-    Design
-    
-    System Architecture
-    
-    Module, Components
-    
-    User Interface
-    
-    Build
-    
+
+  - Design
+
+    - System Architecture
+
+    - Module, Components
+
+    - User Interface
+
+  - Build
+
     Software
-    
-    Test
-    
+
+  - Test
+
     Unit Tests, TDD(?), …
-    
-    Deploy
-    
+
+  - Deploy
+
     Continuous Deployment
-    
-    Software & Algorithm
-    
-    User Input ⬆️ → Issue ⬆️
-    
-    Bubblesort → Quicksort, Timsort
-    
-    Measurement
-    
-    Algorithmic complexity
-    
-    Cyclomatic complexity
-    
-    Cognitive complexity
-    
-    Knowledge Graph
-    
-    Process
-    
-    Daily Life
-    
-    Priority
-    
-    Deep Work
-    
-    [](https://product.kyobobook.co.kr/detail/S000000619577)
-    
+
+Software & Algorithm
+
+  User Input ⬆️ → Issue ⬆️
+  
+  Bubblesort → Quicksort, Timsort
+  
+  Measurement
+  
+      - Algorithmic complexity
+  
+      - Cyclomatic complexity
+  
+      - Cognitive complexity
+  
+      - Knowledge Graph
+
+Process
+
+Daily Life
+
+  Priority
+
+  [Deep Work](https://product.kyobobook.co.kr/detail/S000000619577)
+```
 ## 80:20
     
     다수의 결과가 소수의 원인에서 나온다
